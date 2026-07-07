@@ -1,16 +1,9 @@
 # PN2N
 
-Poisson thinning enables self-supervised denoising in photon-limited microscopy.
-
-PN2N is a Colab-based implementation for self-supervised denoising of photon-limited microscopy images. It uses Poisson thinning to generate statistically independent training pairs from a single photon-counted image.
-
-## Run in Google Colab
-
-# PN2N
-
 Poisson-thinning-enabled self-supervised denoising for photon-limited microscopy.
+![PN2N example result](PN2N_example.png)
 
-PN2N is a Colab-based implementation for self-supervised denoising of photon-limited microscopy images. It uses Poisson thinning to generate statistically independent training pairs from a single photon-counted image.
+PN2N_Colab is a Colab-based implementation for self-supervised denoising of photon-limited microscopy images. It uses Poisson thinning to generate statistically independent training pairs from a single photon-counted image.
 
 ## Run in Google Colab
 
