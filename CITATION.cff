@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use PN2N, please cite this software and the associated manuscript."
+title: "PN2N: Poisson thinning enables self-supervised denoising in photon-limited microscopy"
+authors:
+  - family-names: Ma
+    given-names: Hongqiang
+    affiliation: "University of Illinois Urbana-Champaign"
+version: 1.0.0
+date-released: 2026-07-07
+license: MIT
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/PN2N"
