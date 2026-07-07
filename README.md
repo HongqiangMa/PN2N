@@ -6,7 +6,7 @@ PN2N is a Colab-based implementation for self-supervised denoising of photon-lim
 
 ## Run in Google Colab
 
-[![Open PN2N in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/PN2N/blob/main/PN2N_Colab_commented.ipynb)
+[![Open PN2N in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HongqiangMa/PN2N/blob/main/PN2N_Colab_commented.ipynb)
 
 ## Manuscript
 
