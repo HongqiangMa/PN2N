@@ -48,7 +48,7 @@ The main parameters are set in the final section of the Colab notebook: **User p
 | `lr` | `1e-3` | Learning rate for AdamW optimization |
 | `batch_size` | `32` | Number of random Poisson-thinned patches per training batch |
 | `patch_size` | `256` | Size of randomly cropped 2D training patches |
-| `epochs` | `1000` | Maximum number of training epochs |
+| `epochs` | `700` | Maximum number of training epochs |
 | `seed` | `42` | Random seed for reproducible training and patch sampling |
 | `camera_offset` | `0` | Camera black level or electronic offset. Use `0` if the data are already offset-corrected |
 | `camera_gain` | `1` | Camera gain used for DN-to-photon conversion. Use `1` if the data are already in photon units |
